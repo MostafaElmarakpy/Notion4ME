@@ -1,4 +1,4 @@
-# bmi_calculator
+# Notion4ME
 
 A new Flutter project.
 
