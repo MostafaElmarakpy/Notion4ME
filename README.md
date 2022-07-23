@@ -1,6 +1,6 @@
 # Notion4ME
 
-A new Flutter project.
+All-in-one workspace where you can write, plan, collaborate and get organized – it allows you to take notes, add tasks, manage projects & more
 
 ## Getting Started
 
